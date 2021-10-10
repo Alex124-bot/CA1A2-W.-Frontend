@@ -13,7 +13,8 @@
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <remote.server>https://www.komputerkomputer.dk/manager/text</remote.server>
+<!--        https://www.komputerkomputer.dk/manager/text-->
+        <remote.server>http://159.89.110.209:8081/manager/html</remote.server>
         <db.name>CA1A2</db.name>
     </properties>
 
