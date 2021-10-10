@@ -1,3 +1,4 @@
+USE CA1A2;
 DELETE FROM HOBBY;
 INSERT INTO HOBBY (name,link,category,type)  VALUES ('3D-udskrivning','https://en.wikipedia.org/wiki/3D_printing','Generel','Indendørs');
 INSERT INTO HOBBY (name,link,category,type)  VALUES ('Akrobatik','https://en.wikipedia.org/wiki/Acrobatics','Generel','Indendørs');
