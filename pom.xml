@@ -14,7 +14,7 @@
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 <!--        https://www.komputerkomputer.dk/manager/text-->
-        <remote.server>https://www.komputerkomputer.dk/manager/html</remote.server>
+        <remote.server>https://www.komputerkomputer.dk/manager/text</remote.server>
         <db.name>CA1A2</db.name>
     </properties>
 
